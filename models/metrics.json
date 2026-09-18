@@ -1,0 +1,23 @@
+{
+  "best_model": "Logistic Regression",
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 0.7381,
+      "precision": 0.5043,
+      "recall": 0.7834,
+      "f1": 0.6136
+    },
+    "Decision Tree": {
+      "accuracy": 0.7544,
+      "precision": 0.526,
+      "recall": 0.7567,
+      "f1": 0.6206
+    },
+    "Random Forest": {
+      "accuracy": 0.7473,
+      "precision": 0.516,
+      "recall": 0.7781,
+      "f1": 0.6205
+    }
+  }
+}
